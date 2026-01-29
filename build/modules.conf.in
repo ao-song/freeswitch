@@ -1,4 +1,5 @@
 applications/mod_av
+applications/mod_audio_bug
 #applications/mod_avmd
 #applications/mod_bert
 #applications/mod_blacklist
