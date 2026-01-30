@@ -1,0 +1,3 @@
+[submodule "src/mod/applications/mod_audio_bug"]
+	path = src/mod/applications/mod_audio_bug
+	url = https://github.com/ao-song/mod_audio_bug.git
